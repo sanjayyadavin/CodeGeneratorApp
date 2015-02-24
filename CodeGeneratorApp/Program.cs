@@ -11,6 +11,7 @@ namespace CodeGeneratorApp
         static void Main(string[] args)
         {
             Console.WriteLine("master branch");
+            Console.WriteLine("added in  github console");
             Console.ReadLine();
         }
     }
