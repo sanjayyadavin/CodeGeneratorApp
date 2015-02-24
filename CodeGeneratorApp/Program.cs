@@ -10,6 +10,8 @@ namespace CodeGeneratorApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("master branch");
+            Console.ReadLine();
         }
     }
 }
